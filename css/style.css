@@ -50,10 +50,50 @@ header{
     padding: 5px;
     font-size: 10px;
 }
+.tagViola{
+    border-radius: 8px;
+    background-color: rgb(182, 26, 243); 
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+}
+.tagvcq{
+    border-radius: 8px;
+    background-color: rgb(24, 151, 119); 
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+
+}
+.tagorang{
+    border-radius: 8px;
+    background-color: rgb(243, 156, 26); 
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+}
+.tagrosa{
+    border-radius: 8px;
+    background-color: rgb(231, 60, 131); 
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+}
+.taglime{
+    border-radius: 8px;
+    background-color: rgb(175, 204, 11); 
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+}
 
 ul{
     list-style-type: none;
+
      }
+li{
+    margin-bottom: 8px;
+}
 
 .checklist{
     font-size: 12px;

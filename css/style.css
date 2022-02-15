@@ -2,9 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: arial;
 }
 h1{
     display: inline-block;
+    vertical-align: 15px;
 }
 body{
     background-color: #e6e6e6;
@@ -37,4 +39,25 @@ header{
 .margintop10{
     margin-top: 10px;
    
+}
+.toggle{
+    font-size: 15px;
+}
+.tagblu{
+    border-radius: 8px;
+    background-color: rgb(26, 156, 243); 
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+}
+
+ul{
+    list-style-type: none;
+     }
+
+.checklist{
+    font-size: 12px;
+}
+div{
+    margin-bottom: 20px;
 }
